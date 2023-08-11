@@ -1,5 +1,5 @@
 
-I want to share my exciting adventure in computer programming, where I took my first steps into the world of Object-Oriented Programming (OOP). This journey led me to create a working Automated Teller Machine (ATM) using Java, and I learned some basic coding skills like using if, else, and else if statements.
+I wanted to share my exciting adventure in computer programming, where I took my first steps into the world of Object-Oriented Programming (OOP). This journey led me to create a working Automated Teller Machine (ATM) using Java, and I learned some basic coding skills like using if, else, and else if statements.
 
 Think of an ATM as a digital banking helper we use to withdraw money. I used OOP, which is like a set of rules that helps organize our code neatly. I built different parts of the ATM, like how it talks to users and handles transactions, and combined them to make the whole thing work smoothly.
 
